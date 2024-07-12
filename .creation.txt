@@ -1,0 +1,3 @@
+vue create projname
+npm install bootstrap
+npm install bootstrap-vue
